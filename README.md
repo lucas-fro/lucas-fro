@@ -1,5 +1,5 @@
 <h1 align="center">Bem-vindo ao meu perfil do GitHub! 🚀</h1>
-<p align="center">Olá! Meu nome é Lucas Ferndes e gosto muito de programação. Meu objetivo é me tornar um desenvolvedor full stack e contribuir para projetos inovadores tanto e grupo quanto individuais.</p>
+<p align="center">Olá! Meu nome é Lucas Ferndes e gosto muito de programação. Meu objetivo é me tornar um desenvolvedor full stack e contribuir para projetos inovadores tanto em grupo quanto individuais.</p>
 
 <h3 align="center">Sobre mim</h3>
 <ul>
